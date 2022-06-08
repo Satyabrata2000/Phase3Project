@@ -1,0 +1,16 @@
+1. Open AWS
+2. Create the EC2 Instance and connect to that
+3. Install Java, Maven, GIT
+4. Clone the repo https://github.com/onlyfullstack/rest-assured-tutorial.git
+5. cd rest-assured-tutorial
+6. mvn spring-boot:run
+
+===================================
+
+API Chaining
+
+1. Get All Employee
+2. Create Employee
+3. Update the Employee
+4. Delete that Employee
+5. Get Deleted Employee
